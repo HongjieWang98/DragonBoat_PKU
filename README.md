@@ -16,4 +16,8 @@ Features
 Visual Insights
 
 - Bar charts illustrating total rankings (打卡总分排名_柱状图.png)
+  <img width="1000" height="600" alt="打卡总分排名_柱状图" src="https://github.com/user-attachments/assets/327afef9-9574-4045-ab1c-779b0e4cd599" />
+
 - Trend lines showing score trajectories (折线图.png).
+  <img width="960" height="665" alt="折线图" src="https://github.com/user-attachments/assets/c2017671-c8ea-4db4-aa56-e928558e9b62" />
+
